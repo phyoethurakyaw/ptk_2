@@ -11,6 +11,7 @@ namespace st
         static void Main(string[] args)
         {
 
+
             String ptk = null;
             Console.WriteLine(ptk.ToString());
             Console.ReadLine();
